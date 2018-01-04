@@ -5,9 +5,11 @@
 
 ## Code Review
 
+- 생략
 
 ## 보충설명
 
+- 생략
 
 ## TODO
 
